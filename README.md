@@ -1,6 +1,6 @@
 # CombineProject
 
-This project demonstrate how to use basic combine and Latest/Zip operator to retreive data and then present it to a view
+This project demonstrates how to use basic combine and Latest/Zip operator to retreive data and then present it to a view
 
 `Use Combine Latest operator`
 Video: https://www.youtube.com/watch?v=UvXvFa-k6dw&list=PLSbpzz0GJp5QHQPK3QPjzuwoRn62zDtL8&index=2
