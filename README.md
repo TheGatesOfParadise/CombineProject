@@ -26,8 +26,8 @@ FlightCardView is copied from Whoosh, no change.
 
 FlightDetailView is not used in this project, see Whoosh for its implementation
 
-=============================================
+============================
 Lessons learned
-=============================================
+============================ 
 
 1. In each flight overview screen,  viewModel.flights or viewModel.userProfile.flights should not be nil.   At the begining they should be empty, so the view display an empty screen, because of the @Published property inside ViewModel,  the view will be automatically updated when the property is retrieved successfully
