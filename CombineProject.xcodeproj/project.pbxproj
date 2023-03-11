@@ -19,6 +19,7 @@
 		FD8C1D9629BC307B00112392 /* FlightDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD8C1D9529BC307B00112392 /* FlightDetailView.swift */; };
 		FD8C1D9C29BC321100112392 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD8C1D9B29BC321100112392 /* Models.swift */; };
 		FD8C1D9E29BC3D3100112392 /* FlightOverviewView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD8C1D9D29BC3D3100112392 /* FlightOverviewView2.swift */; };
+		FD8C1DA029BC46E500112392 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FD8C1D9F29BC46E500112392 /* README.md */; };
 		FDC7BCB729B3083C00639F08 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC7BCB629B3083C00639F08 /* AppDelegate.swift */; };
 		FDC7BCB929B3083C00639F08 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC7BCB829B3083C00639F08 /* SceneDelegate.swift */; };
 		FDC7BCBB29B3083C00639F08 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDC7BCBA29B3083C00639F08 /* ViewController.swift */; };
@@ -40,6 +41,7 @@
 		FD8C1D9529BC307B00112392 /* FlightDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightDetailView.swift; sourceTree = "<group>"; };
 		FD8C1D9B29BC321100112392 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		FD8C1D9D29BC3D3100112392 /* FlightOverviewView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightOverviewView2.swift; sourceTree = "<group>"; };
+		FD8C1D9F29BC46E500112392 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FDC7BCB329B3083C00639F08 /* CombineProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CombineProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDC7BCB629B3083C00639F08 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FDC7BCB829B3083C00639F08 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 		FDC7BCAA29B3083C00639F08 = {
 			isa = PBXGroup;
 			children = (
+				FD8C1D9F29BC46E500112392 /* README.md */,
 				FDC7BCB529B3083C00639F08 /* CombineProject */,
 				FDC7BCB429B3083C00639F08 /* Products */,
 			);
@@ -193,6 +196,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD8C1DA029BC46E500112392 /* README.md in Resources */,
 				FD8C1D8A29B975BC00112392 /* flight.json in Resources */,
 				FD8C1D8929B975BC00112392 /* Player.json in Resources */,
 				FDC7BCC329B3083D00639F08 /* LaunchScreen.storyboard in Resources */,
