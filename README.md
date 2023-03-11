@@ -35,3 +35,4 @@ FlightDetailView is not used in this project, see Whoosh for its implementation
 # Lessons learned
 
 1. In each flight overview screen,  viewModel.flights or viewModel.userProfile.flights should not be nil.   At the begining they should be empty, so the view display an empty screen, because of the @Published property inside ViewModel,  the view will be automatically updated when the property is retrieved successfully
+2. Json file location "Flight.json" is moved to "CombineProject/Model/flight.json", but FileManager can still find "Flight.json" without "Model" directory.
